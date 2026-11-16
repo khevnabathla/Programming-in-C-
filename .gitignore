@@ -1,0 +1,10 @@
+# Compiled files
+*.exe
+*.o
+*.out
+
+# Personal application data
+data/*.dat
+
+# VS Code settings
+.vscode/
