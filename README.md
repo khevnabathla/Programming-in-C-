@@ -76,4 +76,4 @@ This project demonstrates practical applications of:
 
 ## Author
 
-Developed as a C Programming project.
+Developed as a C Programming project by Khevna Bathla.
